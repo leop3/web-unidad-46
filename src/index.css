@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*Paleta elegida*/
+/* .pasteles {
+    color: #D7ECD9;
+    color: #F5D1D0;
+    color: #FEE0C6;
+    color: #E3D4CA;
+} */
+/* BACKGROUND */
+body {
+    background-color: #F6F0ED;
+}
